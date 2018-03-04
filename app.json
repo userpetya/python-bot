@@ -1,0 +1,17 @@
+{
+  "name": "python-bot",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/userpetya/python-bot"
+    }
+  ]
+}
